@@ -1,6 +1,3 @@
-# Foxslide, a theme for Octopress
-## by [Adrian Artiles](http://AdrianArtiles.com)
-
 Available for use under the [MIT License](http://en.wikipedia.org/wiki/MIT_License)
 
 Copyright (c) 2012 by Adrian Artiles
