@@ -1,6 +1,10 @@
 <div class="span10 offset1">
   <h1>
-    {{site.title}}
+    {% if site.fulltitle %}
+        {{site.fulltitle}}
+    {% else %}
+        {{ site.title }}
+    {% endif %}
   </h1>
   <h2>{{site.subtitle}}</h2>
 </div>
